@@ -2,7 +2,7 @@
 
 This interactive Power BI dashboard presents detailed rainfall statistics across Tamil Nadu from 2021 to 2025. The goal is to track district-wise rainfall trends, identify high and low rainfall zones, and provide year-wise insights for better understanding and analysis.
 
-![Dashboard Preview](./Output%20Dahboard/Rainfall%20dashboard.png)
+![Dashboard Preview](./rainfall-data-analytics/Output%20Dahboard/Rainfall%20dashboard.png)
 
 ---
 
